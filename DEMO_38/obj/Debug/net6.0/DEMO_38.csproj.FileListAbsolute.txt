@@ -1,0 +1,15 @@
+E:\DZ_5_LESSON\DEMO_38\bin\Debug\net6.0\DEMO_38.exe
+E:\DZ_5_LESSON\DEMO_38\bin\Debug\net6.0\DEMO_38.deps.json
+E:\DZ_5_LESSON\DEMO_38\bin\Debug\net6.0\DEMO_38.runtimeconfig.json
+E:\DZ_5_LESSON\DEMO_38\bin\Debug\net6.0\DEMO_38.dll
+E:\DZ_5_LESSON\DEMO_38\bin\Debug\net6.0\DEMO_38.pdb
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\DEMO_38.csproj.AssemblyReference.cache
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\DEMO_38.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\DEMO_38.AssemblyInfoInputs.cache
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\DEMO_38.AssemblyInfo.cs
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\DEMO_38.csproj.CoreCompileInputs.cache
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\DEMO_38.dll
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\refint\DEMO_38.dll
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\DEMO_38.pdb
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\DEMO_38.genruntimeconfig.cache
+E:\DZ_5_LESSON\DEMO_38\obj\Debug\net6.0\ref\DEMO_38.dll
